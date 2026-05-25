@@ -1,6 +1,6 @@
 # Django Blog Application
 
-A robust, full-featured blogging web application built using Python and the Django web framework. This project features secure user authentication, interactive blog post management, and a dynamic database schema to simulate a real-world production environment.
+A full-featured blogging web application built using Python and the Django web framework. This project features secure user authentication, interactive blog post management, and a dynamic database schema to simulate a real-world production environment.
 
 **Project Status:** *In Active Development*  
 I am actively building this project to deepen my understanding of backend architecture, database relationships, and secure user sessions in Django.
